@@ -2,19 +2,6 @@
 
 ## Respository for the Project 2: Git best practices and Docker container
 
-| Name | Value |
-|:---|:---|
-| **Course** | CSCI310 - Advanced programming: Python|
-| **Section** | 3 |
-| **Semester** | Fall 2023 |
-| **Student** | Lluis Fabregat Riesco |
-| **Mav Username**            | lfabregatries |
-| **GitHub Username**         | Lluis Fabregat Riesco |
-| **Repository**          | https://github.com/LluisFabregatRiesco/Advpy_Proj2 |
-
-
-## Contents:
-
 ### Kattis problem "Cosmic path optimization"
 
 | Name  | Value |
