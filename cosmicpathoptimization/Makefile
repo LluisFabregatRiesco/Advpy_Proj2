@@ -14,7 +14,7 @@ endif
 	@echo "All unittesting worked..."
 	
 localtest:
-	@cat 1.in | python cosmicpathoptimization.py | diff - 1.ans
+	@cat sample_data/1.in | python cosmicpathoptimization.py | diff - sample_data/1.ans
 	@echo "All kattis sample data test done..."
 
 check-types:
